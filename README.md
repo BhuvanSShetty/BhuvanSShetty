@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @BhuvanSShetty
 - 👀 I’m interested in CS
 - 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me @bhuvan_s_shetty is my insta
-- 
+- 📫 How to reach me @bhuvan_s_shetty is my instagram .
 
 <!---
 BhuvanSShetty/BhuvanSShetty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
