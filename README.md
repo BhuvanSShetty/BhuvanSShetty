@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BhuvanSShetty
 - 👀 I’m interested in CS
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning python
 - 📫 How to reach me @bhuvan_s_shetty is my instagram .
 
 <!---
