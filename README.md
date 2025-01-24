@@ -46,7 +46,10 @@
   </a>
 </div>
 
--![](https://leetcard.jacoblin.cool/bhuvan_s_shetty?ext=heatmap)
+<h2 align="left">LeetCode Stats</h2>
+
+
+![](https://leetcard.jacoblin.cool/bhuvan_s_shetty?ext=heatmap)
 
 ###
 
