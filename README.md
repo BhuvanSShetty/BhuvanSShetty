@@ -53,11 +53,6 @@ I am a developer based in **Bangalore**, currently focused on mastering **Full S
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
 </p>
 
-#### LeetCode Stats
-<p align="left">
-  <img src="https://leetcard.jacoblin.cool/bhuvan_s_shetty?ext=heatmap" alt="LeetCode Stats" />
-</p>
-
 ---
 
 ### Connect with me
