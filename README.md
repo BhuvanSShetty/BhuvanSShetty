@@ -5,10 +5,13 @@
 
 ### About Me
 
-I am a developer based in **Bangalore**, currently focused on mastering **Full Stack Development** and strengthening my algorithmic thinking through **LeetCode** (C++). I enjoy building scalable backend systems and exploring the modern web ecosystem.
+Backend developer based in Bangalore, building and exploring full-stack applications.
 
-- **Currently working on:** Enhancing my Backend expertise and Full-Stack projects.
-- **Location:** Bangalore, India.
+Experienced with Node.js, Express, and MongoDB for developing APIs and backend systems, along with hands-on experience in deploying applications and understanding core networking concepts.
+
+* Currently working on: Backend and full-stack projects
+* Location: Bangalore, India
+
 
 ---
 
