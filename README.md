@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Bhuvan Sreenivasa Shetty</h1>
-<h3 align="center">Backend Developer</h3>
+<h3 align="center">Software Engineer</h3>
 
 ---
 
 ### About Me
 
-Backend developer based in Bangalore, building and exploring full-stack applications.
+Software Engineer based in Bengaluru, experienced in building, deploying, and exploring full-stack applications.
 
 Experienced with Node.js, Express, and MongoDB for developing APIs and backend systems, along with hands-on experience in deploying applications and understanding core networking concepts.
 
