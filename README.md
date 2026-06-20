@@ -25,7 +25,7 @@
 </p>
 
 ---
-_
+
 # ABOUT ME
 
 Software developer focused on backend engineering, full-stack development, and scalable web applications.
