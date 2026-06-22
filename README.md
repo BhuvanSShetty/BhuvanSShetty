@@ -82,24 +82,8 @@ My focus is on creating software that is reliable, maintainable, and capable of 
 # GITHUB ANALYTICS
 
 <p align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=BhuvanSShetty&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=BhuvanSShetty&theme=github-dark-blue&hide_border=true"/>
-</p>
-
-<p align="center">
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhuvanSShetty&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
-
----
-
-# CONTRIBUTION ACTIVITY
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=BhuvanSShetty&theme=github-dark&hide_border=true"/>
-</p>
-
----
 
 # CURRENT FOCUS
 
