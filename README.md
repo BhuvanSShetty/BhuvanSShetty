@@ -78,13 +78,6 @@ My focus is on creating software that is reliable, maintainable, and capable of 
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ---
-
-# GITHUB ANALYTICS
-
-<p align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhuvanSShetty&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
-
 # CURRENT FOCUS
 
 ```yaml
@@ -105,7 +98,7 @@ Exploring:
   - Cloud Infrastructure
 
 Open_To:
-  - Software Engineering Internships
+  - Software Engineering Roles
   - Backend Development Roles
   - Full Stack Development Roles
   - Open Source Collaboration
