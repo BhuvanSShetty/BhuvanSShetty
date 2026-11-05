@@ -35,7 +35,6 @@ I enjoy building production-grade applications using modern web technologies and
 My focus is on creating software that is reliable, maintainable, and capable of solving real-world problems at scale.
 
 - Currently building full-stack and backend projects
-- Learning Data Structures & Algorithms and System Design
 - Interested in Software Engineering, Backend Development, and Cloud Computing
 - Based in Bengaluru, India
 
@@ -50,6 +49,7 @@ My focus is on creating software that is reliable, maintainable, and capable of 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
 
 ### FRONTEND
 
@@ -62,71 +62,27 @@ My focus is on creating software that is reliable, maintainable, and capable of 
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=flat-square&logo=rubyonrails&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
 
 ### CLOUD & TOOLS
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Harness](https://img.shields.io/badge/Harness-4322CE?style=flat-square&logo=harness&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-
----
-# CURRENT FOCUS
-
-```yaml
-Learning:
-  - Data Structures & Algorithms
-  - System Design
-  - Backend Engineering
-  - Cloud Computing
-
-Building:
-  - Full Stack Applications
-  - Scalable REST APIs
-  - Production Grade Web Platforms
-
-Exploring:
-  - Distributed Systems
-  - Software Architecture
-  - Cloud Infrastructure
-
-Open_To:
-  - Software Engineering Roles
-  - Backend Development Roles
-  - Full Stack Development Roles
-  - Open Source Collaboration
-```
-
----
-
-# CONNECT
-
-<p align="left">
-
-<a href="https://www.linkedin.com/in/bhuvan-s-shetty-0578a3284/">
-<img src="https://img.shields.io/badge/LINKEDIN-B22222?style=flat-square&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:bhuvansshetty90@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-8B0000?style=flat-square&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/BhuvanSShetty">
-<img src="https://img.shields.io/badge/GITHUB-161B22?style=flat-square&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://bhuvans.in">
-<img src="https://img.shields.io/badge/PORTFOLIO-DC143C?style=flat-square"/>
-</a>
-
-</p>
 
 ---
 
